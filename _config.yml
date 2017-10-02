@@ -1,1 +1,31 @@
-theme: jekyll-theme-cayman
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://atodogas.petrolina.com.br
+title: A Todo Gás
+email: atodogas.petrolina@domain.com
+author: André Mendonça
+description: Revenda de Gás Ultragaz e Água
+copyright: 'Copyright &copy; 2017 A Todo Gás. Todos os direitos reservados.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: (87) 98852-8090
+    icons: ['phone', 'whatsapp']
+  - title: (87) 99651-8477
+    icons: ['phone']
+  - title: facebook
+    icons: ['facebook']
+    url: https://fb.me/atodogas.petrolina/

@@ -1,0 +1,10 @@
+---
+layout: default
+img: botijao-p13-e-p45.png
+category: Produtos
+title: Gás LP
+description: |
+---
+  Atualmente trabalhamos com os cilindros nos **tamanho P13** para cozinha comúm e em breve tamanho P45.  
+  <br>
+  Revendedora autorizada **ULTRAGAZ** e credenciada na **ANP**
