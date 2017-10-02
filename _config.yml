@@ -24,8 +24,10 @@ permalink: pretty
 social:
   - title: (87) 98852-8090
     icons: ['phone', 'whatsapp']
+    url: '#contact'
   - title: (87) 99651-8477
     icons: ['phone']
+    url: '#contact'
   - title: facebook
     icons: ['facebook']
     url: https://fb.me/atodogas.petrolina/
