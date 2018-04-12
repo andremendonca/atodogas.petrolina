@@ -5,4 +5,4 @@ category: Products
 title: Água de 20L
 description: |
 ---
-  Temos água mineral de 20 litros das marcas Indaiá e Cristal
+  Temos água mineral de 20 litros das marcas Indaiá e Manaíra
